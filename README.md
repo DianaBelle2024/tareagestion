@@ -5,3 +5,5 @@ Este proyecto es un ejemplo de cómo usar Git y GitHub, como tarea para el curso
 ## Instrucciones de instalación
 1. Clona el repositorio.
 2. Abre el proyecto en tu editor de texto.
+## Cómo usar
+Abre el archivo principal y ejecuta el programa.
