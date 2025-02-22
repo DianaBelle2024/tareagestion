@@ -7,3 +7,5 @@ Este proyecto es un ejemplo de cómo usar Git y GitHub, como tarea para el curso
 2. Abre el proyecto en tu editor de texto.
 ## Cómo usar
 Abre el archivo principal y ejecuta el programa.
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request.
